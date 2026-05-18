@@ -1,4 +1,3 @@
-# Test-A_FastAPI-Natural-Language-Processing-Pipeline
 # NLP RAG Pipeline
 
 A high-performance, asynchronous NLP and Retrieval-Augmented Generation (RAG) API built with FastAPI. This service provides specialized NLP tasks (classification, sentiment analysis, entity extraction, summarization) and a robust vector search system using ChromaDB.
@@ -53,7 +52,7 @@ A high-performance, asynchronous NLP and Retrieval-Augmented Generation (RAG) AP
     Create a `.env` file in the root directory:
     ```env
     OPENAI_API_KEY=your_openai_key
-    OPENAI_BASE_URL=https:
+    OPENAI_BASE_URL=https://api.us.inc/usf/v1/hiring
     
     MYSQL_DB=nlp_db
     MYSQL_USER=user
