@@ -110,6 +110,3 @@ app/
 └── schemas/        # Pydantic data models
 ```
 
-## License
-
-MIT License
